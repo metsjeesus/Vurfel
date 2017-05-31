@@ -22,5 +22,8 @@
   "homepage": "https://github.com/metsjeesus/Vurfel#readme",
   "devDependencies": {
     "eslint": "^3.19.0"
+  },
+  "dependencies": {
+    "twitch-api": "^0.4.6"
   }
 }
