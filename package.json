@@ -24,6 +24,7 @@
     "eslint": "^3.19.0"
   },
   "dependencies": {
+    "irc-framework": "^2.8.1",
     "twitch-api": "^0.4.6"
   }
 }
