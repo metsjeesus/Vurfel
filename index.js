@@ -1,3 +1,5 @@
+"use strict";
+
 let IRC = require('irc-framework')
 const env = require('./env.js')
 
