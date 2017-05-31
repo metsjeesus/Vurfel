@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/metsjeesus/Vurfel/issues"
   },
-  "homepage": "https://github.com/metsjeesus/Vurfel#readme"
+  "homepage": "https://github.com/metsjeesus/Vurfel#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
 }
